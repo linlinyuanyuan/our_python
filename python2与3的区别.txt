@@ -1,0 +1,2 @@
+#unicode
+#3中print仅作为函数使用
